@@ -12,20 +12,18 @@ description: |
     Pellentesque varius tincidunt purus, dictum sodales leo suscipit quis. 
     Proin ullamcorper tristique nisi, quis hendrerit turpis. Donec non congue velit. 
     Praesent accumsan odio egestas, mollis lorem eget, euismod arcu. 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://course-website.svmiller.com" # the base hostname & protocol for your site
-syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/syllabus-example/svm-rmarkdown-syllabus-example.pdf"
-githubdir: "svmiller/course-website"
+baseurl: "/course-website-template" # the subpath of your site, e.g. /blog/
+url: "https://xinzhangseu.github.io" # the base hostname & protocol for your site
+syllabus: "https://xinzhangseu.github.io/course-website-template/syllabus/syllabus.pdf"
+githubdir: "xinzhangseu/course-website-template"
 
 # Author/user information
-email: svmille@clemson.edu
-twitter_username: stevenvmiller
-github_username:  svmiller
-authorurl: "http://svmiller.com"
+email: x.zhang.seu@gmail.com
+twitter_username:
+github_username:  xinzhangseu
+authorurl: "https://xinzhangseu.github.io"
 address: |
-    Department of Political Science
-    232 Brackett Hall
-    Clemson, SC 29634-1354
+    Nanjing, China
 
 
 # Build settings
